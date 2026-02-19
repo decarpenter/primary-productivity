@@ -7,3 +7,7 @@
 .DS_Store
 data/
 figures/tmp/
+*.egg-info/
+build/
+dist/
+__pycache__/
